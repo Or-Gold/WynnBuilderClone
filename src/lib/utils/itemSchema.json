@@ -1,0 +1,230 @@
+{
+    "name": {
+        "type": "STRING"
+    },
+    "displayName": {
+        "type": "STRING"
+    },
+    "tier": {
+        "type": "STRING"
+    },
+    "set": {
+        "type": "STRING"
+    },
+    "sockets": {
+        "type": "NUMBER"
+    },
+    "type": {
+        "type": "STRING"
+    },
+    "armorType": {
+        "type": "STRING"
+    },
+    "armorColor": {
+        "type": "STRING"
+    },
+    "addedLore": {
+        "type": "STRING"
+    },
+    "material": {
+        "type": "STRING"
+    },
+    "dropType": {
+        "type": "STRING"
+    },
+    "restrictions": {
+        "type": "STRING"
+    },
+    "damage": {
+        "type": "RANGE"
+    },
+    "fireDamage": {
+        "type": "RANGE"
+    },
+    "waterDamage": {
+        "type": "RANGE"
+    },
+    "airDamage": {
+        "type": "RANGE"
+    },
+    "thunderDamage": {
+        "type": "RANGE"
+    },
+    "earthDamage": {
+        "type": "RANGE"
+    },
+    "attackSpeed": {
+        "type": "STRING",
+        "constant": true
+    },
+    "health": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "fireDefense": {
+        "type": "NUMBER"
+    },
+    "waterDefense": {
+        "type": "NUMBER"
+    },
+    "airDefense": {
+        "type": "NUMBER"
+    },
+    "thunderDefense": {
+        "type": "NUMBER"
+    },
+    "earthDefense": {
+        "type": "NUMBER"
+    },
+    "level": {
+        "type": "NUMBER"
+    },
+    "quest": {
+        "type": "STRING"
+    },
+    "classRequirement": {
+        "type": "STRING"
+    },
+    "strength": {
+        "type": "NUMBER"
+    },
+    "dexterity": {
+        "type": "NUMBER"
+    },
+    "intelligence": {
+        "type": "NUMBER"
+    },
+    "agility": {
+        "type": "NUMBER"
+    },
+    "defense": {
+        "type": "NUMBER"
+    },
+    "healthRegen": {
+        "type": "NUMBER"
+    },
+    "manaRegen": {
+        "type": "NUMBER",
+        "duration": 5
+    },
+    "spellDamage": {
+        "type": "NUMBER"
+    },
+    "damageBonus": {
+        "type": "PRECENT"
+    },
+    "lifeSteal": {
+        "type": "NUMBER",
+        "duration": 3
+    },
+    "manaSteal": {
+        "type": "NUMBER",
+        "duration": 3
+    },
+    "xpBonus": {
+        "type": "NUMBER"
+    },
+    "lootBonus": {
+        "type": "NUMBER"
+    },
+    "reflection": {
+        "type": "NUMBER"
+    },
+    "strengthPoints": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "dexterityPoints": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "intelligencePoints": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "agilityPoints": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "defensePoints": {
+        "type": "NUMBER",
+        "constant": true
+    },
+    "thorns": {
+        "type": "NUMBER"
+    },
+    "exploding": {
+        "type": "NUMBER"
+    },
+    "speed": {
+        "type": "NUMBER"
+    },
+    "attackSpeedBonus": {
+        "type": "NUMBER"
+    },
+    "poison": {
+        "type": "NUMBER",
+        "duration": 3
+    },
+    "healthBonus": {
+        "type": "NUMBER"
+    },
+    "soulPoints": {
+        "type": "NUMBER"
+    },
+    "emeraldStealing": {
+        "type": "NUMBER"
+    },
+    "healthRegenRaw": {
+        "type": "NUMBER",
+        "duration": 4
+    },
+    "spellDamageRaw": {
+        "type": "NUMBER"
+    },
+    "damageBonusRaw": {
+        "type": "NUMBER"
+    },
+    "bonusFireDamage": {
+        "type": "NUMBER"
+    },
+    "bonusWaterDamage": {
+        "type": "NUMBER"
+    },
+    "bonusAirDamage": {
+        "type": "NUMBER"
+    },
+    "bonusThunderDamage": {
+        "type": "NUMBER"
+    },
+    "bonusEarthDamage": {
+        "type": "NUMBER"
+    },
+    "bonusFireDefense": {
+        "type": "NUMBER"
+    },
+    "bonusWaterDefense": {
+        "type": "NUMBER"
+    },
+    "bonusAirDefense": {
+        "type": "NUMBER"
+    },
+    "bonusThunderDefense": {
+        "type": "NUMBER"
+    },
+    "bonusEarthDefense": {
+        "type": "NUMBER"
+    },
+    "accessoryType": {
+        "type": "STRING"
+    },
+    "identified": {
+        "type": "BOOLEAN"
+    },
+    "skin": {
+        "type": "STRING"
+    },
+    "category": {
+        "type": "STRING"
+    }
+}
